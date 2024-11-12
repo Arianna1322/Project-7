@@ -1,0 +1,26 @@
+.title1{
+    font-size: 40px;  
+    text-align: center; 
+    font-family: "Comic Sans MS", "Comic Sans", cursive; 
+}
+#banner1{ 
+    border-radius: 50%;
+}
+#banner1:hover{ 
+    border: 5px outset #432fa3; 
+}
+table,td,th{ 
+    background-color: #c98aeb;
+    border:4px inset rgb(61, 7, 89);  
+    padding: 10px; 
+    border-collapse: collapse;
+    text-align: left; 
+    color: #343236; 
+}
+
+td:hover,th:hover{ 
+    background-color: #3d0759; 
+    color: white; 
+}
+
+
